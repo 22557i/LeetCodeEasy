@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LCeasy1/LCeasy1.iml" filepath="$PROJECT_DIR$/LCeasy1/LCeasy1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy13/LCeasy13.iml" filepath="$PROJECT_DIR$/LCeasy13/LCeasy13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy2/LCeasy2.iml" filepath="$PROJECT_DIR$/LCeasy2/LCeasy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy9/LCeasy9.iml" filepath="$PROJECT_DIR$/LCeasy9/LCeasy9.iml" />
+    </modules>
+  </component>
+</project>
