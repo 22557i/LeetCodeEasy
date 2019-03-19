@@ -10,6 +10,10 @@ public class Solution70 {
 
         return steps[n-1];
     }
+        public static void main( String args[]){
+
+
+        }
 
 
 }
