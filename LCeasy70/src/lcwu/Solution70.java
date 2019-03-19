@@ -2,7 +2,20 @@ package lcwu;
 
 public class Solution70 {
     public int climbStairs(int n) {
-    int count =0;
+        if(n==1)return 1;
+        int[]steps = new int[n];
+        steps[0]=1;
+        steps[1]=2;
+        for(int i=2;i<n;i++)steps[i]=steps[i-1]+steps[i-2];
+
+        return steps[n-1];
+    }
+
+
+}
+
+    /*
+    * int count =0;
     int count1=n;
     int count2=0;
 
@@ -27,6 +40,4 @@ public class Solution70 {
                 r *= i;
             }
             return r;
-    }
-
-}
+    }*/
