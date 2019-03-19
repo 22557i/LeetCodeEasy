@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b340bf47-06e5-4532-904e-5a32b3608b21" name="Default" comment="">
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/LCeasy70/src/lcwu/Solution70.java" beforeDir="false" afterPath="$PROJECT_DIR$/LCeasy70/src/lcwu/Solution70.java" afterDir="false" />
->>>>>>> ab27f5b534272dfe895539f0ac5c371b4ce58176
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LCeasy35/src/lcwu/Solution35.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,13 +29,11 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-=======
       <file leaf-file-name="Solution70.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LCeasy70/src/lcwu/Solution70.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
->>>>>>> ab27f5b534272dfe895539f0ac5c371b4ce58176
             </state>
           </provider>
         </entry>
@@ -89,15 +83,13 @@
         <option value="$PROJECT_DIR$/LCeasy28/src/lcwu/Solution28.java" />
         <option value="$PROJECT_DIR$/LCeasy35/src/lcwu/Solution35.java" />
         <option value="$PROJECT_DIR$/LCeasy38/src/lcwu/Solution38.java" />
-<<<<<<< HEAD
-=======
         <option value="$PROJECT_DIR$/LCeasy53/src/lcwu/Solution53.java" />
         <option value="$PROJECT_DIR$/LCeasy58/src/lcwu/Solution58.java" />
         <option value="$PROJECT_DIR$/LCeasy66/src/lcwu/Solution66.java" />
         <option value="$PROJECT_DIR$/LCeasy67/src/lcwu/Solution67.java" />
         <option value="$PROJECT_DIR$/LCeasy69/src/lcwu/Solution69.java" />
         <option value="$PROJECT_DIR$/LCeasy70/src/lcwu/Solution70.java" />
->>>>>>> ab27f5b534272dfe895539f0ac5c371b4ce58176
+
       </list>
     </option>
   </component>
@@ -130,13 +122,13 @@
           <expand>
             <path>
               <item name="Easy1" type="b2602c69:ProjectViewProjectNode" />
-<<<<<<< HEAD
+
               <item name="LCeasy21" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Easy1" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCeasy21" type="462c0819:PsiDirectoryNode" />
-=======
+
               <item name="LCeasy70" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -147,7 +139,7 @@
             <path>
               <item name="Easy1" type="b2602c69:ProjectViewProjectNode" />
               <item name="LCeasy70" type="462c0819:PsiDirectoryNode" />
->>>>>>> ab27f5b534272dfe895539f0ac5c371b4ce58176
+
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lcwu" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -169,12 +161,11 @@
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
+
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
->>>>>>> ab27f5b534272dfe895539f0ac5c371b4ce58176
+
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,19 +324,18 @@
     <option name="totallyTimeSpent" value="29816000" />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26547232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-=======
+
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
->>>>>>> ab27f5b534272dfe895539f0ac5c371b4ce58176
+
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005208" side_tool="true" weight="0.48116255" />
@@ -500,13 +490,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LCeasy35/src/lcwu/Solution35.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
         <state relative-caret-position="340">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-=======
         <state relative-caret-position="384">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
@@ -558,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
->>>>>>> ab27f5b534272dfe895539f0ac5c371b4ce58176
         </state>
       </provider>
     </entry>
