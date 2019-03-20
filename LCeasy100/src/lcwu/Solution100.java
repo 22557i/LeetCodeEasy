@@ -13,13 +13,13 @@ public class Solution100 {
                 return false;
             }
 
-            boolean falg1 = isSameTree(p.left,q.left);
+            boolean flag1 = isSameTree(p.left,q.left);
 
 
-            boolean falg2 = isSameTree(p.right,q.right);
+            boolean flag2 = isSameTree(p.right,q.right);
 
 
-            if(falg1==false||falg2==false){
+            if(flag1==false||flag2==false){
                 return false;
             }
 
