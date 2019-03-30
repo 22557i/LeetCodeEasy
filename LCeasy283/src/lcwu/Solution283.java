@@ -1,24 +1,19 @@
 package lcwu;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Solution283 {
     public void moveZeroes(int[] nums) {
-        int count =0;
+       ArrayList arrayList = new ArrayList();
+       for(int i =0;i<nums.length;i++){
+           if(nums[i]!=0) arrayList.add((int)nums[i]);
+       }
+        for(int i =0;i<nums.length-arrayList.size();i++){
+            arrayList.add((int)0);
+        }
         for (int i = 0; i <nums.length ; i++) {
-            if(nums[i]==0){
-                count++;
-                for(int j =i;j<nums.length;j++){
-                    nums[j]=nums[i+1];
-                }
-            }
+            nums[i]=(int)arrayList.get(i);
         }
-        for(int k = nums.length-count-1;k<nums.length;k++){
-            nums[k]=0;
-        }
-
-
-
     }
 
 }

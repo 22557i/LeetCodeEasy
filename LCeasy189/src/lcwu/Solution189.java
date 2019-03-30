@@ -1,8 +1,6 @@
 package lcwu;
 
 public class Solution189 {
-
-
     public void rotate(int[] nums, int k) {
         int temp, previous;
         for (int i = 0; i < k; i++) {
