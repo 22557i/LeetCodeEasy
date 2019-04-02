@@ -26,3 +26,26 @@ public class Solution345 {
         return res.toString();
     }
 }
+/*
+* if (s == null || s.length() ==0) return s;
+        char[] chars = s.toCharArray();
+        int i = 0, j= s.length() - 1;
+        while (i < j) {
+            char c1 = chars[i];
+            char c2 = chars[j];
+            boolean b1 = isVowel(c1);
+            boolean b2 = isVowel(c2);
+            if (b1 && b2 ) {
+                chars[i] = chars[j];
+                chars[j] = c1;
+                i++; j--;
+            }
+            else if (b1) j--;
+            else i++;
+        }
+        return String.valueOf(chars);
+    }
+    private static boolean isVowel(char c) {
+        return (c =='a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
+        c =='A' || c == 'E' || c == 'I' || c == 'O' || c == 'U');
+*/

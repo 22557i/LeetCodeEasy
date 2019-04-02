@@ -1,39 +1,39 @@
 package asd;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.*;
 
 public class Solution {
-    public void show() {
-        ArrayList<Integer>list = new ArrayList<Integer>();
-        list.add(4);
-        list.add(7);
-        list.add(1);
-        for(int a:list){
-            System.out.println(a);
-
+   public static List<Integer> getDuplicates(List<Integer>arrOne, List<Integer>arrTwo){
+       Set<Integer> set= new HashSet<Integer>();
+       for(Integer a :arrOne){
+           set.add(a);
+       }
+       List<Integer>res = new ArrayList<>();
+       for(Integer b:arrTwo){
+           if(set.contains(b))res.add(b);
+       }
+       Stack <Integer> stack = new Stack<>();
+       Collections.sort(res);
+        int []a =new int[res.size()];
+        for(int i =0;i<res.size();i++){
+            a[i] = res.get(i);
         }
+        for(int i =0;i<a.length;i++){
+            for(int j=i;j<a.length-1;j++){
+                if(a[j]<a[j+1]){
+                    int temp = a[j];
+                    a[j]=a[j+1];
+                    a[j+1] = temp;
+                }
+            }
+        }
+        List<Integer> s = new ArrayList<Integer>();
+        for(int i=0;i<a.length;i++){
+            s.add(a[i]);
+        }
+    return s;
 
-    }
-    public static void main(String args[]){
-      String s1 = new String("Hello World");
-      String s2 = new String("Hello World");
-      String s3 = "Hello World";
-      String s4 = "Hello World";
-      int a =0, b=0,c=0;
-      if(s3==s4){
-          a=1;
-      }else{
-          a=2;
-      }
-      if(s1.equals(s3)){
-          b=1;
-      }else b=2;
-      if(s1==s4){
-          c=1;
-      }else c=2;
-
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-    }
+   }
 }
