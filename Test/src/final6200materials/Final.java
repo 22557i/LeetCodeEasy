@@ -1,14 +1,7 @@
-package asd;
+package final6200materials;
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.ListIterator;
-
-import org.omg.CORBA.PUBLIC_MEMBER;
+import java.util.*;
 
 public class Final {
 
@@ -63,7 +56,6 @@ public class Final {
 				return i.compareTo(j);
 			}
 		});
-
 		for (int i : ints) {
 
 			for (int j = 0; j < i; j++) {
@@ -71,15 +63,12 @@ public class Final {
 			}
 			System.out.println("");
 		}
-
 		System.out.println("");
-
 		Collections.sort(ints, new Comparator<Integer>() {
 			public int compare(Integer i, Integer j) {
 				return j.compareTo(i);
 			}
 		});
-
 		for (int i : ints) {
 
 			for (int j = 0; j < i; j++) {
@@ -100,7 +89,7 @@ public class Final {
 				return i.compareTo(j);
 			}
 		});
-
+		Collections.sort(ints,((o1, o2) -> {return Integer.compare(o1,o2);}));
 		for (int i : ints) {
 
 			for (int j = 0; j < i; j++) {

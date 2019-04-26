@@ -1,7 +1,7 @@
-package asd;
+package final6200materials;
 
 public class Myprint implements  Runnable{
-	boolean flag = true;
+	volatile boolean flag = true;
 	int i = 0;
 	int j = 0;
 
@@ -12,6 +12,7 @@ public class Myprint implements  Runnable{
 				System.out.print((char) ('a' + i));
 				i++;
 				this.flag = false;
+
 			}
 		}
 	}
@@ -23,6 +24,7 @@ public class Myprint implements  Runnable{
 				System.out.print((char) ('A' + j));
 				j++;
 				this.flag = true;
+
 			}
 		}
 

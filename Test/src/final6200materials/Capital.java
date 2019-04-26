@@ -1,4 +1,4 @@
-package asd;
+package final6200materials;
 
 public class Capital extends Thread {
 	Myprint my = null;
