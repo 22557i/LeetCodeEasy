@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LCMedium509/LCMedium509.iml" filepath="$PROJECT_DIR$/LCMedium509/LCMedium509.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium520/LCMedium520.iml" filepath="$PROJECT_DIR$/LCMedium520/LCMedium520.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium521/LCMedium521.iml" filepath="$PROJECT_DIR$/LCMedium521/LCMedium521.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium530/LCMedium530.iml" filepath="$PROJECT_DIR$/LCMedium530/LCMedium530.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium532/LCMedium532.iml" filepath="$PROJECT_DIR$/LCMedium532/LCMedium532.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium538/LCMedium538.iml" filepath="$PROJECT_DIR$/LCMedium538/LCMedium538.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium705/LCMedium705.iml" filepath="$PROJECT_DIR$/LCMedium705/LCMedium705.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy1/LCeasy1.iml" filepath="$PROJECT_DIR$/LCeasy1/LCeasy1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy100/LCeasy100.iml" filepath="$PROJECT_DIR$/LCeasy100/LCeasy100.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy101/LCeasy101.iml" filepath="$PROJECT_DIR$/LCeasy101/LCeasy101.iml" />
@@ -10,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/LCeasy107/LCeasy107.iml" filepath="$PROJECT_DIR$/LCeasy107/LCeasy107.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy108/LCeasy108.iml" filepath="$PROJECT_DIR$/LCeasy108/LCeasy108.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy110/LCeasy110.iml" filepath="$PROJECT_DIR$/LCeasy110/LCeasy110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy1103/LCeasy1103.iml" filepath="$PROJECT_DIR$/LCeasy1103/LCeasy1103.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy111/LCeasy111.iml" filepath="$PROJECT_DIR$/LCeasy111/LCeasy111.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy112/LCeasy112.iml" filepath="$PROJECT_DIR$/LCeasy112/LCeasy112.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy118/LCeasy118.iml" filepath="$PROJECT_DIR$/LCeasy118/LCeasy118.iml" />
@@ -101,12 +109,18 @@
       <module fileurl="file://$PROJECT_DIR$/LCeasy492/LCeasy492.iml" filepath="$PROJECT_DIR$/LCeasy492/LCeasy492.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy496/LCeasy496.iml" filepath="$PROJECT_DIR$/LCeasy496/LCeasy496.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy500/LCeasy500.iml" filepath="$PROJECT_DIR$/LCeasy500/LCeasy500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy504/LCeasy504.iml" filepath="$PROJECT_DIR$/LCeasy504/LCeasy504.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy506/LCeasy506.iml" filepath="$PROJECT_DIR$/LCeasy506/LCeasy506.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy507/LCeasy507.iml" filepath="$PROJECT_DIR$/LCeasy507/LCeasy507.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy53/LCeasy53.iml" filepath="$PROJECT_DIR$/LCeasy53/LCeasy53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy541/LCeasy541.iml" filepath="$PROJECT_DIR$/LCeasy541/LCeasy541.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy543/LCeasy543.iml" filepath="$PROJECT_DIR$/LCeasy543/LCeasy543.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy58/LCeasy58.iml" filepath="$PROJECT_DIR$/LCeasy58/LCeasy58.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy66/LCeasy66.iml" filepath="$PROJECT_DIR$/LCeasy66/LCeasy66.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy67/LCeasy67.iml" filepath="$PROJECT_DIR$/LCeasy67/LCeasy67.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy69/LCeasy69.iml" filepath="$PROJECT_DIR$/LCeasy69/LCeasy69.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy70/LCeasy70.iml" filepath="$PROJECT_DIR$/LCeasy70/LCeasy70.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy706/LCeasy706.iml" filepath="$PROJECT_DIR$/LCeasy706/LCeasy706.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy83/LCeasy83.iml" filepath="$PROJECT_DIR$/LCeasy83/LCeasy83.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy88/LCeasy88.iml" filepath="$PROJECT_DIR$/LCeasy88/LCeasy88.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy9/LCeasy9.iml" filepath="$PROJECT_DIR$/LCeasy9/LCeasy9.iml" />
