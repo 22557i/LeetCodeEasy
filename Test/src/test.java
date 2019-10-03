@@ -4,6 +4,7 @@
 
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class test {
     public static void main(String[] args) {
@@ -16,4 +17,12 @@ public class test {
         list.set( list.indexOf("C"), "R" );
         System.out.println(list);
     }
-}
+    public List<Integer> evenList(List<Integer> list) {
+        List<Integer> result = new ArrayList<>();
+        for (int n : list) {
+            if (n % 2 == 0) result.add(n);
+        }
+        return result;
+    }
+
+    }
