@@ -1,11 +1,8 @@
 package lcwu;
-<<<<<<< HEAD
+
 
 import java.util.*;
 
-=======
-import java.util.*;
->>>>>>> 4940192d7c1279f7a0ec5c234d95a96101881f13
 public class Solution107 {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         if(root==null)

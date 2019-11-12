@@ -4,25 +4,41 @@
 
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class test {
-    public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList<String>() ;
-        list.add( "A" );
-        list.add( "B" );
-        list.add( "C" );
-        list.add( "D" );
-        list.add( "E" );
-        list.set( list.indexOf("C"), "R" );
-        System.out.println(list);
-    }
-    public List<Integer> evenList(List<Integer> list) {
-        List<Integer> result = new ArrayList<>();
-        for (int n : list) {
-            if (n % 2 == 0) result.add(n);
+    List<String> retrieveMostFrequentlyUsedWords(String literatureText,
+                                                 List<String> wordsToExclude)
+    {
+        // WRITE YOUR CODE HERE
+        String [] temp = literatureText.toLowerCase().split("[ !?',;.\\s]+");
+        List<String> dir = new ArrayList<>();
+        for(String sw:wordsToExclude){
+            String temp1 = sw.toLowerCase();
+            dir.add(temp1);
         }
-        return result;
+        List<String> res = new ArrayList<>();
+        Map<String,Integer>map = new HashMap<>();
+
+        int maxfreq =  Integer.MIN_VALUE;
+        for(String s1:temp){
+            if(!helper(s1,dir)){
+                map.put(s1,map.getOrDefault(s1,0)+1);
+                maxfreq = Math.max(maxfreq,map.get(s1));
+            }
+        }
+        for(Map.Entry<String,Integer> e:map.entrySet()){
+            if(e.getValue() ==maxfreq)res.add(e.getKey());
+        }
+        return res;
+    }
+    boolean helper(String s,List<String> l){
+        for(String t:l){
+            if(s.equalsIgnoreCase(t))return true;
+        }
+        return false;
     }
 
-    }
+}

@@ -3,23 +3,59 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/6205Assignment/6205Assignment.iml" filepath="$PROJECT_DIR$/6205Assignment/6205Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HUAWEI1023/HUAWEI1023.iml" filepath="$PROJECT_DIR$/HUAWEI1023/HUAWEI1023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCHard188/LCHard188.iml" filepath="$PROJECT_DIR$/LCHard188/LCHard188.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium102/LCMedium102.iml" filepath="$PROJECT_DIR$/LCMedium102/LCMedium102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium103/LCMedium103.iml" filepath="$PROJECT_DIR$/LCMedium103/LCMedium103.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium105/LCMedium105.iml" filepath="$PROJECT_DIR$/LCMedium105/LCMedium105.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium109/LCMedium109.iml" filepath="$PROJECT_DIR$/LCMedium109/LCMedium109.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium114/LCMedium114.iml" filepath="$PROJECT_DIR$/LCMedium114/LCMedium114.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium127/LCMedium127.iml" filepath="$PROJECT_DIR$/LCMedium127/LCMedium127.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium133/LCMedium133.iml" filepath="$PROJECT_DIR$/LCMedium133/LCMedium133.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium148/LCMedium148.iml" filepath="$PROJECT_DIR$/LCMedium148/LCMedium148.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium151/LCMedium151.iml" filepath="$PROJECT_DIR$/LCMedium151/LCMedium151.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium152/LCMedium152.iml" filepath="$PROJECT_DIR$/LCMedium152/LCMedium152.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LeetCodeMedium1/LCMedium2/LCMedium2.iml" filepath="$PROJECT_DIR$/../LeetCodeMedium1/LCMedium2/LCMedium2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium200/LCMedium200.iml" filepath="$PROJECT_DIR$/LCMedium200/LCMedium200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium221/LCMedium221.iml" filepath="$PROJECT_DIR$/LCMedium221/LCMedium221.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LeetCodeMedium1/LCMedium3/LCMedium3.iml" filepath="$PROJECT_DIR$/../LeetCodeMedium1/LCMedium3/LCMedium3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium322/LCMedium322.iml" filepath="$PROJECT_DIR$/LCMedium322/LCMedium322.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium394/LCMedium394.iml" filepath="$PROJECT_DIR$/LCMedium394/LCMedium394.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LeetCodeMedium1/LCMedium40/LCMedium40.iml" filepath="$PROJECT_DIR$/../LeetCodeMedium1/LCMedium40/LCMedium40.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LeetCodeMedium1/LCMedium46/LCMedium46.iml" filepath="$PROJECT_DIR$/../LeetCodeMedium1/LCMedium46/LCMedium46.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LeetCodeMedium1/LCMedium47/LCMedium47.iml" filepath="$PROJECT_DIR$/../LeetCodeMedium1/LCMedium47/LCMedium47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium48/LCMedium48.iml" filepath="$PROJECT_DIR$/LCMedium48/LCMedium48.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LeetCodeMedium1/LCMedium5/LCMedium5.iml" filepath="$PROJECT_DIR$/../LeetCodeMedium1/LCMedium5/LCMedium5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium50/LCMedium50.iml" filepath="$PROJECT_DIR$/LCMedium50/LCMedium50.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium509/LCMedium509.iml" filepath="$PROJECT_DIR$/LCMedium509/LCMedium509.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium520/LCMedium520.iml" filepath="$PROJECT_DIR$/LCMedium520/LCMedium520.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium521/LCMedium521.iml" filepath="$PROJECT_DIR$/LCMedium521/LCMedium521.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium530/LCMedium530.iml" filepath="$PROJECT_DIR$/LCMedium530/LCMedium530.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium532/LCMedium532.iml" filepath="$PROJECT_DIR$/LCMedium532/LCMedium532.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium538/LCMedium538.iml" filepath="$PROJECT_DIR$/LCMedium538/LCMedium538.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium54/LCMedium54.iml" filepath="$PROJECT_DIR$/LCMedium54/LCMedium54.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium547/LCMedium547.iml" filepath="$PROJECT_DIR$/LCMedium547/LCMedium547.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LeetCodeMedium1/LCMedium6/LCMedium6.iml" filepath="$PROJECT_DIR$/../LeetCodeMedium1/LCMedium6/LCMedium6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium61/LCMedium61.iml" filepath="$PROJECT_DIR$/LCMedium61/LCMedium61.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCMedium705/LCMedium705.iml" filepath="$PROJECT_DIR$/LCMedium705/LCMedium705.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium714/LCMedium714.iml" filepath="$PROJECT_DIR$/LCMedium714/LCMedium714.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium73/LCMedium73.iml" filepath="$PROJECT_DIR$/LCMedium73/LCMedium73.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium75/LCMedium75.iml" filepath="$PROJECT_DIR$/LCMedium75/LCMedium75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium77/LCMedium77.iml" filepath="$PROJECT_DIR$/LCMedium77/LCMedium77.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium78/LCMedium78.iml" filepath="$PROJECT_DIR$/LCMedium78/LCMedium78.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium79/LCMedium79.iml" filepath="$PROJECT_DIR$/LCMedium79/LCMedium79.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium80/LCMedium80.iml" filepath="$PROJECT_DIR$/LCMedium80/LCMedium80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium81/LCMedium81.iml" filepath="$PROJECT_DIR$/LCMedium81/LCMedium81.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium82/LCMedium82.iml" filepath="$PROJECT_DIR$/LCMedium82/LCMedium82.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium89/LCMedium89.iml" filepath="$PROJECT_DIR$/LCMedium89/LCMedium89.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium90/LCMedium90.iml" filepath="$PROJECT_DIR$/LCMedium90/LCMedium90.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium94/LCMedium94.iml" filepath="$PROJECT_DIR$/LCMedium94/LCMedium94.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium95/LCMedium95.iml" filepath="$PROJECT_DIR$/LCMedium95/LCMedium95.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium96/LCMedium96.iml" filepath="$PROJECT_DIR$/LCMedium96/LCMedium96.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMedium98/LCMedium98.iml" filepath="$PROJECT_DIR$/LCMedium98/LCMedium98.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMeidum151/LCMeidum151.iml" filepath="$PROJECT_DIR$/LCMeidum151/LCMeidum151.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMeidum56/LCMeidum56.iml" filepath="$PROJECT_DIR$/LCMeidum56/LCMeidum56.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCMeidum59/LCMeidum59.iml" filepath="$PROJECT_DIR$/LCMeidum59/LCMeidum59.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy1/LCeasy1.iml" filepath="$PROJECT_DIR$/LCeasy1/LCeasy1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy100/LCeasy100.iml" filepath="$PROJECT_DIR$/LCeasy100/LCeasy100.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy1005/LCeasy1005.iml" filepath="$PROJECT_DIR$/LCeasy1005/LCeasy1005.iml" />
@@ -126,6 +162,7 @@
       <module fileurl="file://$PROJECT_DIR$/LCeasy492/LCeasy492.iml" filepath="$PROJECT_DIR$/LCeasy492/LCeasy492.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy496/LCeasy496.iml" filepath="$PROJECT_DIR$/LCeasy496/LCeasy496.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy500/LCeasy500.iml" filepath="$PROJECT_DIR$/LCeasy500/LCeasy500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCeasy501/LCeasy501.iml" filepath="$PROJECT_DIR$/LCeasy501/LCeasy501.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy504/LCeasy504.iml" filepath="$PROJECT_DIR$/LCeasy504/LCeasy504.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy506/LCeasy506.iml" filepath="$PROJECT_DIR$/LCeasy506/LCeasy506.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy507/LCeasy507.iml" filepath="$PROJECT_DIR$/LCeasy507/LCeasy507.iml" />
@@ -222,6 +259,7 @@
       <module fileurl="file://$PROJECT_DIR$/LCeasy970/LCeasy970.iml" filepath="$PROJECT_DIR$/LCeasy970/LCeasy970.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy989/LCeasy989.iml" filepath="$PROJECT_DIR$/LCeasy989/LCeasy989.iml" />
       <module fileurl="file://$PROJECT_DIR$/LCeasy993/LCeasy993.iml" filepath="$PROJECT_DIR$/LCeasy993/LCeasy993.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz/Quiz.iml" filepath="$PROJECT_DIR$/Quiz/Quiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
   </component>
