@@ -22,7 +22,7 @@ public class Solution148 {
        while(!q.isEmpty()){
             cur.next = q.poll();
             cur = cur.next;
-            
+
        }
         return  dum.next;
 
