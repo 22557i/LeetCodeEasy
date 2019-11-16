@@ -1,7 +1,7 @@
 package lcwu;
 import java.util.*;
 public class Solution387 {
-    public int firstUniqChar(String s) {
+    public static int firstUniqChar(String s) {
         Map<Character, Integer> map = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
@@ -13,6 +13,19 @@ public class Solution387 {
             }
         }
         return -1;
+    }
+
+    public static void main(String[] args) {
+        String s1 = "leetcode";
+        String s2 = "loveleetcode";
+        String s3 = "qqqqqqqwertyuiopp";
+        String s4 = "qqqqqqqqqqqqqqqqe";
+        String s5 = "aaaaaaa";
+        System.out.println(firstUniqChar(s1));
+        System.out.println(firstUniqChar(s2));
+        System.out.println(firstUniqChar(s3));
+        System.out.println(firstUniqChar(s4));
+        System.out.println(firstUniqChar(s5));
     }
 }
 //    public int firstUniqChar(String s) {
