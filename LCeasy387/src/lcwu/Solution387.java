@@ -26,6 +26,10 @@ public class Solution387 {
         System.out.println(firstUniqChar(s3));
         System.out.println(firstUniqChar(s4));
         System.out.println(firstUniqChar(s5));
+        List<String>l = new ArrayList<>();
+        l.add("abv");
+        l.add("cba");
+        l.stream().filter(s->s.startsWith("a")).forEach(System.out::println);
     }
 }
 //    public int firstUniqChar(String s) {
