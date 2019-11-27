@@ -17,11 +17,11 @@ import java.util.Stack;
              numStr += "=";
          }
          if (!isStandard(numStr)) {
-             System.err.println("Error�� Wrong Math expression!");
+             System.err.println("Error Wrong Math expression!");
             return 0;
          }
          // instantiate Stack for numbers and symbol
-        numberStack = new Stack<Long>();
+         numberStack = new Stack<Long>();
          symbolStack = new Stack<Character>();
          StringBuffer temp = new StringBuffer();
          for (int i = 0; i < numStr.length(); i++) {

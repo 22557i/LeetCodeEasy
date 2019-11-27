@@ -4,7 +4,7 @@ package Homework10;
  * Created by Hao Wu on 11/19/19.
  */
 public class Q2 {
-    public static int bruteForceSearch(String text, String pattern){
+    public static void bruteForceSearch(String text, String pattern){
 
         int lengthOfText = text.length();
         int lengthOfPattern = pattern.length();
@@ -19,10 +19,10 @@ public class Q2 {
                 }
             }
 
-            if( j == lengthOfPattern ) return i;
+            if( j == lengthOfPattern ) System.out.println("Matched in index: "+j);;
         }
 
-        return lengthOfText;
+
     }
     public final static int d = 256;
 
@@ -89,7 +89,7 @@ public class Q2 {
     public static void main(String[] args) {
         String sa = "ABCADCBABABCDABCDABDE";
         String sb = "BCD";
-        System.out.println("Bruteforce: "+bruteForceSearch(sa,sb));
+        bruteForceSearch(sa,sb);
         search(sa,sb,101);
         // System.out.println("Robin-Karp: "+);
     }

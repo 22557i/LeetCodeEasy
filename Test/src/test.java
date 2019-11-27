@@ -3,6 +3,8 @@
  */
 
 
+import java.io.*;
+import java.nio.Buffer;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -39,6 +41,34 @@ public class test {
             if(s.equalsIgnoreCase(t))return true;
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+        File f = new File("./1.txt");
+        String row[];
+        try {
+            BufferedReader bf = new BufferedReader(new FileReader(f));
+             row = bf.readLine().split(",");
+             int temp[] =new int[row.length];
+            for (int i = 0; i <temp.length ; i++) {
+                temp[i] = Integer.parseInt(row[i]);
+            }
+            for (int i = 0; i <temp.length-1 ; i++) {
+                for (int j = 0; j <temp.length-1-i ; j++) {
+                    if(temp[j]<temp[j+1]){
+                        int t = temp[j];
+                        temp[j ] = temp[j+1];
+                        temp[j+1] = t;
+                    }
+                }
+            }
+            StringBuffer sb = new StringBuffer();
+            for(int n:temp)sb.append(n).append(",");
+            BufferedWriter bw = new BufferedWriter(new FileWriter("./2.txt"));
+            bw.write(sb.substring(0,sb.length()-1));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
 }
