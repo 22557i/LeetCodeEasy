@@ -18,13 +18,11 @@ public class TreeNode {
 class algorithm{
     public void Dfs(TreeNode root){
         if(root == null)return;
-
         Stack<TreeNode> stack = new Stack<>();
         stack.push(root);
         while(!stack.isEmpty()){
             TreeNode temp = stack.pop();
             System.out.println(temp.data);
-
             if(temp.right!=null)stack.push(root.right);
             if(temp.left!=null)stack.push(root.left);
         }
@@ -42,4 +40,3 @@ class algorithm{
         }
     }
 }
-

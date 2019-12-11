@@ -27,6 +27,8 @@ public class Solution98 {
             inorder(list,root.right);
         }
     }
+
+
 }
 class TreeNode {
       int val;
