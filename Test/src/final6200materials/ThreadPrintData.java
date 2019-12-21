@@ -7,7 +7,7 @@ public class ThreadPrintData {
 	//public static CountDownLatch latch = new CountDownLatch(2);
 	private static byte [] lock = new byte[0];
 	private static volatile Integer i = 0;
-	private static volatile Integer j =0;
+	private static volatile Integer j = 0;
 	private static volatile boolean flag = true;
 	private static final int TOTAL = 25;
 
