@@ -18,7 +18,6 @@ public class Solution {
 		anames.forEach(n -> System.out.print(n + ", "));
 		System.out.println();
 		Arrays.sort(names, new Comparator<String>() {
-
 			@Override
 			public int compare(String o1, String o2) {
 				// TODO Auto-generated method stub

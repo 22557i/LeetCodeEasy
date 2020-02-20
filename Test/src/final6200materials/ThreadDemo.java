@@ -89,8 +89,5 @@ public class ThreadDemo {
 		excutor.execute(t3);
 //		final6200materials
 		if(count>total)return ;
-
-
-
 	}
 }

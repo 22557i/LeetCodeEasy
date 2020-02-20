@@ -1,5 +1,8 @@
 package test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by Hao Wu on 10/3/19.
  */
@@ -26,8 +29,10 @@ public class dog1 {
         System.out.println(aDog==oldDog);
     }
     public static void changeName(dog1 d){
-        System.out.println(d.getName().equals("Bella"));
-        d.setName("Molly");
+        List<Integer> l = new ArrayList<>();
+        for(int i=1;i<121;++i)
+            if((i%2!=0)&&(i%5!=0)&&(i%7!=0))l.add(i);
 
+        System.out.println(l.size());
     }
 }
