@@ -1,6 +1,5 @@
 package Huawei;
 
-import sun.security.provider.certpath.Vertex;
 
 import java.util.ArrayList;
 import java.util.HashSet;

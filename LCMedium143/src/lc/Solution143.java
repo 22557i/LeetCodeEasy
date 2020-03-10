@@ -1,0 +1,28 @@
+package lc;
+
+public class Solution143 {
+  public class ListNode {
+      int val;
+      ListNode next;
+      ListNode(int x) { val = x; }
+  }
+  public void reorderList(ListNode head) {
+            while(head!=null&&head.next!=null){
+                ListNode t = reverseList(head.next);
+                head.next =t;
+                head = head.next;
+            }
+        }
+        public ListNode reverseList(ListNode head) {
+            ListNode pre = null;
+            ListNode cur = head;
+            while(cur!=null){
+                ListNode next = cur.next;
+                cur.next = pre;
+                pre = cur;
+                cur = next;
+            }
+            return pre;
+        }
+}
+

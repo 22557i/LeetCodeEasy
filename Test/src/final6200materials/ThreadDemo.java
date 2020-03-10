@@ -40,7 +40,7 @@ public class ThreadDemo {
 				while (count <= total)
 					synchronized (lock) {
 						if (count%3==1) {
-							System.out.println("线程2：--------"+count++);
+							System.out.println("线程2：------"+count++);
 
 							//flag = true;
 						}  else{
@@ -64,7 +64,7 @@ public class ThreadDemo {
 				while (count <= total)
 					synchronized (lock) {
 						if (count%3==2) {
-							System.out.println("线程3：------"+count++);
+							System.out.println("线程3：-------"+count++);
 
 							//flag = true;
 						}  else{
