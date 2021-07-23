@@ -11,19 +11,19 @@ class Driver1
     {
         try
         {
-            System.out.println("First statement of try block");
+            System.out.print("First statement of try block ");
             int num=45/3;
-            System.out.println(num);
+            System.out.print(num);
         }
         catch(Exception e)
         {
-            System.out.println("Caught Exception");
+            System.out.print(" Caught Exception ");
         }
         finally
         {
-            System.out.println("finally block");
+            System.out.print(" finally block ");
         }
-        System.out.println("Main method");
+        System.out.print(" Main method ");
     }
 }
 

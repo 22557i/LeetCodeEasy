@@ -9,7 +9,7 @@ public class Q1 {
     public static void main(String[] args) {
         Q1 q = new Q1();
         q.a += q.b--;
-        System.out.println(q.a);
+        System.out.print(q.a+" ");
         System.out.println(q.b);
     }
 }

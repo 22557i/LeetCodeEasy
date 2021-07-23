@@ -1,5 +1,7 @@
 package quiz2019Fall.Quiz4Morning;
 
+import java.util.HashMap;
+
 /**
  * Created by Hao Wu on 10/18/19.
  */
@@ -18,5 +20,7 @@ class Testx {
         t1.x = 20;
         System.out.print(t1.x + " ");
         System.out.println(t2.x);
+        HashMap<Integer,String>map = new HashMap<>();
+        
     }
 }

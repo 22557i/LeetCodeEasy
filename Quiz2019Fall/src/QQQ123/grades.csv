@@ -1,0 +1,153 @@
+Name,NUID,Email Address,Upload on Github?(If no -50),Late Submission (-10/day),Does the application solve a real problem?(5),Is the system expandable or applicable at the global level?(5),Reasonalbe model?(5),4 Enterprises(2 points for each),8 organizations?(1 for each),10 different roles(0.5 for each),Able to manage network(5),Able to manage communication between network(10),Logically alignment with the real-time process.(10),Proper tracking status of work request(10),UI & UX(15),Validation(5),Advanced features(10 bonus),Database Support?(9),Error free:(Exception thrown: -5 for each Program break: -20 for each),Grade,Grader name
+Xiyue Suo,1348347,suo.x@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,3,9,,103,Harold
+Xi Zhao,1054333,zhao.xi3@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,3,9,,103,Harold
+Giang Vu,1537937,vu.g@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,12,3,5,9,,100,Harold
+Aditi Jain,1038953,jain.adit@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,0,9,,100,Harold
+Suhani Shah,1567040,shah.suha@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,0,9,,100,Harold
+Prerana Urs Praveen Kumar Urs,1553207,praveenkumarurs.p@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,0,9,,100,Harold
+Jiaqi Wang ,1023711,Wang.jiaqi6@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,12,5,2,9,,99,Harold
+Pei-Ling Chiang ,1533847,chiang.pei@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,12,5,2,9,,99,Harold
+Runnan Zhou ,1528725,zhou.runn@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,0,9,,100,Harold
+Shaohang Lu,1554240,hu.shaoh@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,3,9,,103,Harold
+Dou Jin,1098640,jin.do@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,3,9,,103,Harold
+Jaspreet Kaur Bhamra,1582619,Bhamra.j@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,3,9,,103,Harold
+peizhi Wang,1018708,wang.peiz@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,10,5,0,9,0,85,Shivi Bhatt
+Purva Upadhyay,1521063,upadhyay.p@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Archil Lelashvili,1522269,lelashvili.a@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Simii Vasaikar,1565151,vasaikar.s@northeastern.edu,yes,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Shivi Bhatt
+Aaradhy Sharma,1040799,sharma.aara@northeastern.edu,yes,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Shivi Bhatt
+Jatin Sharma,1524467,sharma.jat@northeastern.edu,yes,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Shivi Bhatt
+Rishab Shekar Gunashekar,1040578,gunashekar.r@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Sriram Ravindran,1003684,ravindran.s@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Aishwarya Yatin Samel,1554746,samel.a@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Anjali Sajeevan,1563277,sajeevan.a@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Manasa Bhat,1032278,bhat.ma@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Sayali Chaudhary,1000217,chaudhary.sa@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Xiyue Suo,1348347,suo.x@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Xi Zhao,1054333,zhao.xi3@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Aditi Jain,1038953,jain.adit@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Suhani Shah,1567040,shah.suha@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Prerana Urs Praveen Kumar Urs,1553207,praveenkumarurs.p@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Jiaqi Wang,1023711,Wang.jiaqi6@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,10,5,10,9,0,95,Shivi Bhatt
+Pei-Ling Chiang,1533847,chiang.pei@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,10,5,10,9,0,95,Shivi Bhatt
+Runnan Zhou,1528725,zhou.runn@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,5,9,0,95,Shivi Bhatt
+Duo Jin,1098640,jin.do@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,5,9,0,95,Shivi Bhatt
+Shaohang Lu,1554240,hu.shaoh@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,5,9,0,95,Shivi Bhatt
+Jaspreet Kaur Bhamra,1582619,Bhamra.j@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,5,9,0,95,Shivi Bhatt
+Zhilong Zhu,1525601,zhu.zhil@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+ShunqingLi,1539980,li.shunq@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Xuanying Wang,1537137,Wang.xuanyi@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Qifan Luo,1010945,luo.qif@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Xing Zhao,1566459,zhao.xing2@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Yanshan Ban ,1063712,ban.y@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,10,9,0,100,Shivi Bhatt
+Baiyu Li,1569441,li.baiyu@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,0,9,0,90,Shivi Bhatt
+Xinhui Zhao,1566459,zhao.xing2@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,15,5,0,9,0,90,Shivi Bhatt
+Giang Vu,1537937,vu.g@northeastern.edu,yes,0,5,5,5,8,8,5,5,0,10,10,8,5,5,9,0,88,Shivi Bhatt
+Lou liu,1000382,liu.lou@northeastern.edu,0,-10,5,3,5,8,8,5,5,8,10,7,10,5,4,9,0,82,Dhankuwar Sisodiya
+Shaolong Feng,1023876,feng.shao@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,4,9,0,102,Dhankuwar Sisodiya
+Ziming Gong,1029417,gong.zim@northeastern,0,0,5,5,5,8,8,5,5,10,10,10,13,5,4,9,0,102,Dhankuwar Sisodiya
+Anqi Miao,1528572,miao.a@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,4,9,0,102,Dhankuwar Sisodiya
+Yutong Wang,1530602,wang.yutong@northeastern.edu,0,0,5,5,5,8,8,4,5,10,10,10,8,0,0,9,0,87,Dhankuwar Sisodiya
+Jingyi Li,1567135,li.jingyi2@northeastern.edu,0,0,5,5,5,8,8,4,5,10,10,10,8,0,0,9,0,87,Dhankuwar Sisodiya
+Rui Tang,1002863,tang.ru@northeastern.edu,0,0,5,5,5,8,8,4,5,10,10,10,8,0,0,9,0,87,Dhankuwar Sisodiya
+Alekhya Kadiri,1564618,kadiri.a@northeastern.edu,0,0,5,5,5,8,8,4.5,5,10,10,10,14,5,10,9,0,108.5,Dhankuwar Sisodiya
+Apeksha Khandelwal,1091651,khandelwal.ap@northeastern.edu,0,0,5,5,5,8,8,4.5,5,10,10,10,14,5,10,9,0,108.5,Dhankuwar Sisodiya
+Shalini Siddabathula,1008895,siddabathula.s@northeastern.edu,0,0,5,5,5,8,8,4.5,5,10,10,10,14,5,10,9,0,108.5,Dhankuwar Sisodiya
+Yue Jian,1527200,jian.yu@northeastern.edu,0,0,5,3,5,8,0,2.5,5,10,10,10,10,5,0,9,0,82.5,Dhankuwar Sisodiya
+Ren Sun,1522469,sun.ren@northeastern.edu,0,0,5,3,5,8,0,2.5,5,10,10,10,10,5,0,9,0,82.5,Dhankuwar Sisodiya
+Zeyuan Zhu,1519701,zhu.zeyu@northeastern.edu,0,0,5,3,5,8,0,2.5,5,10,10,10,10,5,0,9,0,82.5,Dhankuwar Sisodiya
+Jiaqi Sun,1535397,sun.jiaqi@northeastern.edu,0,0,5,5,5,8,8,3.5,5,10,10,10,13,5,4,9,0,100.5,Dhankuwar Sisodiya
+Jialin Wang,1561878,wang.jialin@northeastern.edu,0,0,5,5,5,8,8,3.5,5,10,10,10,13,5,4,9,0,100.5,Dhankuwar Sisodiya
+Feng Peng,1086736,peng.fen@northeastern.edu,0,0,5,5,5,8,8,3.5,5,10,10,10,13,5,4,9,0,100.5,Dhankuwar Sisodiya
+Qujie Chen,1563156,chen.quj@northeastern.edu,0,0,5,3,5,8,0,3.5,5,10,10,5,15,0,0,9,0,78.5,Dhankuwar Sisodiya
+Shaohua Lu,1514123,lu.shaoh@northeastern.edu,0,0,5,3,5,8,0,3.5,5,10,10,5,15,0,0,9,0,78.5,Dhankuwar Sisodiya
+Jinnan Shao,1528750,shao.jin@northeastern.edu,0,0,5,3,5,8,0,3.5,5,10,10,5,15,0,0,9,0,78.5,Dhankuwar Sisodiya
+David Nallapu,1530978,nallapu.d@northeastern.edu,0,0,5,5,5,8,8,5,5,3,5,3,15,3,0,9,0,79,Dhankuwar Sisodiya
+Akshay Khandelwal,1563326,khandelwal.ak@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Dhankuwar Sisodiya
+Sumit Anil Malbari,1526279,malbari.s@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Dhankuwar Sisodiya
+Venkata Sai Pawan Yashwant Kotipalli,1003456,kotipalli.ve@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Dhankuwar Sisodiya
+Shivani,1097126,vats.s@northeastern.edu,0,-10,5,5,5,8,8,5,5,10,10,10,13,5,4,8,0,91,Dhankuwar Sisodiya
+moitra.r,1528940,moitra.r@northeastern.edu,0,-10,5,5,5,8,8,5,5,10,10,10,13,5,4,8,0,91,Dhankuwar Sisodiya
+Taihao Li,1582201,li.taih@northeastern.edu,0,0,5,3,5,8,0,4,5,10,10,10,15,5,4,9,0,93,Dhankuwar Sisodiya
+Guojun Wang,1001276,wang.guoj@northeastern.edu,0,0,5,3,5,8,0,4,5,10,10,10,15,5,4,9,0,93,Dhankuwar Sisodiya
+Jialiang Xiao,1569847,Xiao.jial@northeastern.edu,0,0,5,3,5,8,0,4,5,10,10,10,15,5,4,9,0,93,Dhankuwar Sisodiya
+Huayi Gao,1564201,gao.hua@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,0,9,0,100,Dhankuwar Sisodiya
+Danhui Cui,1008894,cui.danh@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,0,9,0,100,Dhankuwar Sisodiya
+Junyan Ren,1529948,ren.ju@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,0,9,0,100,Dhankuwar Sisodiya
+Baiyu Li,1569441,li.baiyu@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,0,9,0,98,Dhankuwar Sisodiya
+Xinhui Zhao,1560851,zhao.xinh@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,0,9,0,98,Dhankuwar Sisodiya
+Kang Shentu,1569432,shentu.k@northeastern.edu,0,0,5,0,5,0,0,0,0,0,0,0,8,3,6,9,0,36,Dhankuwar Sisodiya
+Lou liu,1000382,liu.lou@northeastern.edu,0,-5,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,105,Tao Xu
+Shaolong Feng,1023876,feng.shao@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Tao Xu
+Ziming Gong,1029417,gong.zim@northeastern,0,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Tao Xu
+Anqi Miao,1528572,miao.a@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,10,9,0,110,Tao Xu
+Yutong Wang,1530602,wang.yutong@northeastern.edu,0,0,5,5,5,8,8,4,5,10,10,10,13,3,0,9,0,95,Tao Xu
+Jingyi Li,1567135,li.jingyi2@northeastern.edu,0,0,5,5,5,8,8,4,5,10,10,10,13,3,0,9,0,95,Tao Xu
+Rui Tang,1002863,tang.ru@northeastern.edu,0,0,5,5,5,8,8,4,5,10,10,10,13,3,0,9,0,95,Tao Xu
+Alekhya Kadiri,1564618,kadiri.a@northeastern.edu,0,0,5,5,5,8,8,4.5,5,10,10,10,15,5,10,9,0,109.5,Tao Xu
+Shalini Siddabathula,1008895,siddabathula.s@northeastern.edu,0,0,5,5,5,8,8,4.5,5,10,10,10,15,5,10,9,0,109.5,Tao Xu
+Apeksha Khandelwal,1091651,khandelwal.ap@northeastern.edu,0,0,5,5,5,8,8,4.5,5,10,10,10,15,5,10,9,0,109.5,Tao Xu
+Yue Jian,1527200,jian.yu@northeastern.edu,0,0,5,5,5,6,5,5,3,10,10,10,15,3,0,9,0,91,Tao Xu
+Ren Sun,1522469,sun.ren@northeastern.edu,0,0,5,5,5,6,5,5,3,10,10,10,15,3,0,9,0,91,Tao Xu
+Zeyuan Zhu,1519701,zhu.zeyu@northeastern.edu_,0,0,5,5,5,6,5,5,3,10,10,10,15,3,0,9,0,91,Tao Xu
+Yining Chen,1586646,chen.yinin@northeastern.edu,0,0,5,5,5,8,8,5,3,10,10,10,15,5,10,9,0,108,Tao Xu
+Hung-chi Huang,1005756,huang.hun@northeastern.edu,0,0,5,5,5,8,8,5,3,10,10,10,15,5,10,9,0,108,Tao Xu
+Junyao Li,1050043,li.junya@northeastern.edu,0,0,5,5,5,8,8,5,3,10,10,10,15,5,10,9,0,108,Tao Xu
+pavan pati,1521280,"pati.p@northeastern.edu,",0,0,5,5,5,8,8,5,5,8,10,10,13,5,10,9,-5,101,Tao Xu
+ShanmukhaPriya Guntupalli,1584929,guntupalli.sh@northeastern.edu,0,0,5,5,5,8,8,5,5,8,10,10,13,5,10,9,-5,101,Tao Xu
+Kunhui Zhang,1563549,zhang.kunh@northeastern.edu,0,0,5,5,5,8,8,5,5,0,10,10,13,5,5,9,0,93,Tao Xu
+Jiawei Zou,1528516,zou.jiaw@northeastern.edu,0,0,5,5,5,8,8,5,5,0,10,10,13,5,5,9,0,93,Tao Xu
+Jiaqi Sun,1535397,sun.jiaqi@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,5,9,0,105,Tao Xu
+Jialin Wang,1561878,wang.jialin@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,5,9,0,105,Tao Xu
+Feng Peng,1086736,peng.fen@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,5,9,0,105,Tao Xu
+Qujie Chen,1563156,chen.quj@northeastern.edu,-5,0,5,5,5,8,0,5,5,10,10,10,10,0,10,9,0,87,Tao Xu
+Shaohua Lu,1514123,lu.shaoh@northeastern.edu_,-5,0,5,5,5,8,0,5,5,10,10,10,10,0,10,9,0,87,Tao Xu
+Jinnan Shao,1528750,shao.jin@northeastern.edu,-5,0,5,5,5,8,0,5,5,10,10,10,10,0,10,9,0,87,Tao Xu
+David Nallapu,1530978,nallapu.d@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,5,15,5,0,9,0,95,Tao Xu
+Akshay Khandelwal,1563326,khandelwal.ak@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,10,9,0,108,Tao Xu
+Sumit Anil Malbari,1526279,malbari.s@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,10,9,0,108,Tao Xu
+Venkata Sai Pawan Yashwant Kotipalli,1003456,kotipalli.ve@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,10,9,0,108,Tao Xu
+Shivani,1097126,vats.s@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,5,9,0,105,Tao Xu
+moitra.r,1528940,moitra.r@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,15,5,5,9,0,105,Tao Xu
+Taihao Li,1582201,li.taih@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,10,5,5,9,0,100,Tao Xu
+Guojun Wang,1001276,wang.guoj@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,10,5,5,9,0,100,Tao Xu
+Jialiang Xiao,1569847,Xiao.jial@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,10,5,5,9,0,100,Tao Xu
+Huayi Gao,1564201,gao.hua@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,5,9,0,103,Tao Xu
+Danhui Cui,1008894,cui.danh@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,5,9,0,103,Tao Xu
+Junyan Ren,1529948,ren.ju@northeastern.edu,0,0,5,5,5,8,8,5,5,10,10,10,13,5,5,9,0,103,Tao Xu
+Peizhi Wang ,1018708,,,5,5,5,8,8,5,5,0,10,10,15,5,0,9,,,90,Ning Huang
+Purva Upadhyay ,1521063,,,5,2,5,8,8,5,5,0,10,10,15,5,0,9,,,87,Ning Huang
+Archil Lelashvili ,1522269,,,5,2,5,8,8,5,5,0,10,10,15,5,0,,,,78,Ning Huang
+Seemin Vasaikar ,1565151,,,5,5,5,8,8,5,5,10,10,10,14,5,10,9,,,109,Ning Huang
+Aaradhy Sharma ,1040799,,,5,5,5,8,8,5,5,10,10,10,14,5,10,,,,100,Ning Huang
+Jatin Sharma ,1524467,,,5,5,5,8,8,5,5,10,10,10,14,5,10,,,,100,Ning Huang
+Rishab Shekar Gunashekar ,1040578,,5,5,5,8,8,5,5,0,10,10,12,5,3,9,,,,90,Ning Huang
+Sriram Ravindran,1003684,,,5,5,5,8,8,5,5,0,10,10,12,5,3,,,,81,Ning Huang
+Aishwarya Samel ,1554746,,,5,5,5,8,8,5,5,0,10,10,12,5,3,,,,81,Ning Huang
+Anjali Sajeevan,1563277,,,,5,5,5,8,8,5,5,0,10,10,15,5,10,9,,100,Ning Huang
+Manasa Bhat,1032278,,,,5,5,5,8,8,5,5,0,10,10,15,5,10,9,,100,Ning Huang
+Sayali Chaudhary,1000217,,,,5,5,5,8,8,5,5,0,10,10,15,5,10,9,,100,Ning Huang
+Yining Chen,1586646,chen.yinin@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,10,9,,110,Ning Huang
+Hung-chi Huang,1005756,huang.hun@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,10,9,,110,Ning Huang
+Junyao Li,1050043,li.junya@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,10,9,,110,Ning Huang
+ShanmukhaPriya Guntupalli,1584929,,,,5,5,5,8,8,5,5,0,10,10,12,5,5,9,-5,87,Ning Huang
+Pavan Sai Pati,1521280,pati.p@northeastern.edu,,,5,5,5,8,8,5,5,0,10,10,12,5,5,9,-5,87,Ning Huang
+Kunhui Zhang,1563549,zhang.kunh@northeastern.edu,,,5,5,5,8,8,5,5,5,10,10,12,5,2,9,,94,Ning Huang
+Jiawei Zou,1528516,zou.jiaw@northeastern.edu,,,5,5,5,8,8,5,5,5,10,10,12,5,2,9,,94,Ning Huang
+Xingyu Gao,1091490,,,,5,5,5,8,8,5,5,10,10,10,12,5,2,9,,99,Ning Huang
+Bohan Feng,1564249,,,,5,5,5,8,8,5,5,10,10,10,12,5,2,9,,99,Ning Huang
+Jingyu Bao,1529873,bao.ji@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,10,5,0,9,,95,Ning Huang
+Yue Bi,1568978,bi.yue@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,10,5,0,9,,95,Ning Huang
+Xuexian Xie,1674636,xie.xue@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,10,5,0,9,,95,Ning Huang
+DInesh kumar Ravikumar,1038358,ravikumar.di@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,10,9,,110,Ning Huang
+Charmi Dalal,1582441,dalal.c@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,10,9,,110,Ning Huang
+Anusha Chandrakanth Lingadahalli,1007696,lingadahalli.a@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,10,9,,110,Ning Huang
+Yuting Su,1563838,su.yut@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,0,9,,100,Ning Huang
+Cong Wang,1002178,wang.cong1@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,0,9,,100,Ning Huang
+Ruqin Liu,1563117,liu.ruq@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,15,5,0,9,,100,Ning Huang
+Madhurima Chatterjee,1003806,chatterjee.m@northeastern.edu,,,5,5,5,8,8,5,5,0,10,10,10,5,6,9,,91,Ning Huang
+Arthi Ganesan,1038375,ganesan.art@northeastern.edu,,,5,5,5,8,8,5,5,0,10,10,10,5,6,9,,91,Ning Huang
+Vishakha Vinayak,1550683,vinayak.v@northeastern.edu,,,5,5,5,8,8,5,5,0,10,10,10,5,6,9,,91,Ning Huang
+Dandan Xu,1085731,xu.da@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,10,5,4,9,,99,Ning Huang
+Shijie Zhang,1537250,zhang.shijie@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,10,5,4,9,,99,Ning Huang
+Zhi Yao,1520706,yao.zhi1@northeastern.edu,,,5,5,5,8,8,5,5,10,10,10,10,5,4,9,,99,Ning Huang
