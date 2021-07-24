@@ -84,7 +84,7 @@ class GrowORShrink {
 	private void nlognTimenSpace() {
 		int n = objects.length ;
 		PriorityQueue<Integer>pq = new PriorityQueue<>((a1,a2)->grow? a1-a2:a2-a1);
-		for (int num:objects)pq.add(num);
+		for (int num:objects) pq.add(num);
 		while(pq.size()>1){
 			int n1 = pq.poll();
 			int n2 = pq.poll();
